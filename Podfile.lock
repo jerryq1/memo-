@@ -1,0 +1,12 @@
+PODS:
+  - BGTableViewRowActionWithImage (0.4.1)
+
+DEPENDENCIES:
+  - BGTableViewRowActionWithImage
+
+SPEC CHECKSUMS:
+  BGTableViewRowActionWithImage: 6a0731a84662735f5ec28dc253e3fba6a73ebc5b
+
+PODFILE CHECKSUM: 89bfb10d060268babeaf15c025a982a49f967cfe
+
+COCOAPODS: 1.2.0
